@@ -1,5 +1,7 @@
 # flutter_marvel
 
+![Marvel-Comic](https://user-images.githubusercontent.com/62777613/229327329-5210df76-9f6e-4664-b15a-362f88dd6d63.PNG)
+
 A new Flutter project.
 
 ## Getting Started
